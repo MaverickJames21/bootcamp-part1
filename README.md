@@ -1,2 +1,1 @@
-# bootcamp-part1
-bootstrap training
+TinDog Starting Files
